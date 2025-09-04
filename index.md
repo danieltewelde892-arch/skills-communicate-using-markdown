@@ -9,6 +9,11 @@ public class Hello {
     }
 }
 ```
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code block
+- [ ] Finish the lesson and merge
+
 
 
 
